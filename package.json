@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mineflayer": "^4.3.0"
+  },
+  "name": "minecraft-account-making-bot",
+  "version": "1.0.0",
+  "description": "A minecraft bot which create minecraft account for server superepicgaming.club",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SuperJackal",
+  "license": "ISC"
+}
